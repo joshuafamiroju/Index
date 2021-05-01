@@ -1,0 +1,84 @@
+#imgs{
+	height: 250px;
+	width: 300px;
+	float: center;
+	border-radius: 500%;
+ 
+
+}
+
+#header{
+	background-color: white;
+	align-content: center;
+	width: 1300px;
+	height: 250px;
+}
+
+#body_container{
+  background-color: white;
+
+  font-style: cursive;
+  
+  text-align: center;
+}
+
+#div{
+	margin: auto;
+	max-width: 500px;
+    padding: 10px;
+    
+}
+
+#ptag{
+	text-align: center;
+}
+
+#form_container{
+	background-color: green;
+	color: black;
+	font-size: 20px;
+	width: 700px;
+	height: 1300px;
+	text-align: center;
+	
+    
+}
+
+.button_tag{
+	border: 10;
+    border-radius: 4px;
+    border-left-color: red;
+    border-bottom-color: blue;
+    border-right-color: yellow;
+    border-top-color: green;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: .875em;
+    margin: 0;
+    padding: 8px 16px;
+}
+
+#form_container{
+	width: 400px;
+	height: 500px;
+	float: center;
+	text-align: center;
+	background-color: white;
+}
+
+#input1{
+	width: 200px;
+	height: 20px;
+}
+
+#input2{
+	width: 200px;
+	height: 200px;
+	font-family: segoe ui;
+}
+
+button:hover{
+    background-color: aqua;
+    color: white;
+
+}
